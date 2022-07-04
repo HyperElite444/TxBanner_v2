@@ -10,6 +10,12 @@
 <li><i>bash TxB_v2.sh</i></li>
 </ul>
 
+### LANGUAGE
+
+<ul>
+<li><i>Bash</i></li>
+</ul>
+
 ### Contact For Contribute & Issues 
 
                                       EMAIL FOR ISSUES AND CONTRIBUTE : mrthenux@gmail.com
