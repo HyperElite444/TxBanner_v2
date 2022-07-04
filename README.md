@@ -13,7 +13,7 @@
 ### LANGUAGE
 
 <ul>
-<li><i>Bash</i></li>
+<li><i>Shell</i></li>
 </ul>
 
 ### Contact For Contribute & Issues 
